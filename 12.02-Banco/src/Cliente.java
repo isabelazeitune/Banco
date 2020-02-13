@@ -4,6 +4,11 @@ public class Cliente {
     private String RG;
     private String CPF;
 
+    // fazer construtor vazio para ter opção de preencher depois
+    public Cliente() {
+
+    }
+
     public Cliente(int numeroDeCliente, String sobrenome, String RG, String CPF) {
         this.numeroDeCliente = numeroDeCliente;
         this.sobrenome = sobrenome;

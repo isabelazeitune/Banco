@@ -22,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../11.02-Exercicio2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../13.02-Impressora" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -52,29 +52,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581516419057">
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581534285629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581516419057" />
-    <state x="804" y="120" key="FileChooserDialogImpl" timestamp="1581509873083">
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581534285629" />
+    <state x="804" y="120" key="FileChooserDialogImpl" timestamp="1581598881388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="804" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581509873083" />
-    <state width="1323" height="53" key="GridCell.Tab.0.bottom" timestamp="1581519116197">
+    <state x="804" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581598881388" />
+    <state width="1323" height="373" key="GridCell.Tab.0.bottom" timestamp="1581594821318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581519116197" />
-    <state width="1323" height="53" key="GridCell.Tab.0.center" timestamp="1581519116196">
+    <state width="1323" height="373" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581594821318" />
+    <state width="1323" height="373" key="GridCell.Tab.0.center" timestamp="1581594821318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581519116196" />
-    <state width="1323" height="53" key="GridCell.Tab.0.left" timestamp="1581519116196">
+    <state width="1323" height="373" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581594821318" />
+    <state width="1323" height="373" key="GridCell.Tab.0.left" timestamp="1581594821318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581519116196" />
-    <state width="1323" height="53" key="GridCell.Tab.0.right" timestamp="1581519116196">
+    <state width="1323" height="373" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581594821318" />
+    <state width="1323" height="373" key="GridCell.Tab.0.right" timestamp="1581594821318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="53" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581519116196" />
+    <state width="1323" height="373" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581594821318" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581598875964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581598875964" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581594819943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581594819943" />
   </component>
 </project>

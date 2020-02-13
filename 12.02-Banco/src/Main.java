@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Conta corrente com saldo 100,00 e limite autorizado 100,00");
         ContaCorrente contaCTeste1 = new ContaCorrente(clienteTeste3, 100, 100);
         System.out.println("Depósito 100,00 em dinheiro");
-        contaCTeste1.depositarDinheiro(100);
+        contaCTeste1.depositar(100);
         System.out.println("Depósito 50,00 em cheque");
         Cheque cheque = new Cheque(50, "banco", "dia/mes/ano");
         contaCTeste1.depositarCheque(cheque);
@@ -38,8 +38,7 @@ public class Main {
         contaCTeste1.sacar(50);
         System.out.println("Saque 250,00 em dinheiro / utiliza Cheque Especial");
         contaCTeste1.sacar(250);
-        System.out.println("Saque 300,00 em dinheiro / impossível");
-        contaCTeste1.sacar(300);
+        System.out.println("Saque 100,00 em dinheiro / impossível");
+        contaCTeste1.sacar(100);
     }
-
 }
